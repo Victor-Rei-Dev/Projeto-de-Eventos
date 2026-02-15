@@ -1,4 +1,4 @@
-# Event Scraper – Fortaleza (Sympla)
+# Event Scraper (Sympla)
 
 Este projeto é um script em Python que coleta automaticamente eventos do site Sympla
 a partir de uma cidade especificada, extraindo o título do evento e seu link.
