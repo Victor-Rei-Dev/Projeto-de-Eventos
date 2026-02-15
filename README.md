@@ -6,7 +6,7 @@ a partir do site Sympla, extraindo o título do evento e seu link.
 O objetivo do projeto é explorar web scraping de forma prática, lidando com HTML real,
 estruturas dinâmicas e problemas comuns de extração de dados.
 
-## O que o projeto faz
+## O que o projeto faz 
 
 Atualmente, o script:
 
